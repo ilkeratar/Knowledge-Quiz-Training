@@ -1,16 +1,3 @@
 # bilgiyarismasi
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ss111](https://user-images.githubusercontent.com/74013091/113767042-d8fddf80-9726-11eb-8a2d-ea310658be5a.PNG) ![ss22](https://user-images.githubusercontent.com/74013091/113767050-dac7a300-9726-11eb-9c07-464798176e3f.PNG)
